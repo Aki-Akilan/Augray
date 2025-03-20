@@ -9,9 +9,19 @@
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-augray.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-augray.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		142E62B7F9864C14AB8DA82A /* Gilroy-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7228070CA8E643ED9A1419DF /* Gilroy-SemiBold.ttf */; };
+		2519A4DB8C4B4E8DACD2EC49 /* Gilroy-UltraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3DEDFE9F299D4C549E70792B /* Gilroy-UltraLight.ttf */; };
 		59F4FB769B3CD9B6DCD998EC /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		6D0DA8A5772E4F02B7CF646C /* Gilroy-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E0ED32320D544AA8B37B9F6C /* Gilroy-Heavy.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
+		8149A4101D6C4A8B9EFFC9AD /* Gilroy-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 946CF27E11BC4AF98F5F6F25 /* Gilroy-Light.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		942C83513B124E58A9C8AF03 /* Gilroy-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D4B1903AAF594EDCB0B196DE /* Gilroy-Thin.ttf */; };
+		9528B0DB53C54A38A94A54A1 /* Gilroy-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 59E1605AFCC644378B748EE0 /* Gilroy-ExtraBold.ttf */; };
+		CD32F2F6E4654D2FA677E6F2 /* Gilroy-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D8A3AA42D4D84B31B3453678 /* Gilroy-Regular.ttf */; };
+		F622E7FCF6264EF8A835B4BF /* Gilroy-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2B8236EF6C4F489A9FB9B453 /* Gilroy-Medium.ttf */; };
+		FCA1F5BD3554447A92EF2F9F /* Gilroy-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9A998C8C5B4DB382BE169C /* Gilroy-Bold.ttf */; };
+		7C170EA63B314599ABC1D407 /* Aclonica-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23BC6240B2B248F5925C0698 /* Aclonica-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,12 +29,22 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = augray/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = augray/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = augray/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		2B8236EF6C4F489A9FB9B453 /* Gilroy-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Medium.ttf"; path = "../app/assets/fonts/Gilroy-Medium.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-augray.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-augray.debug.xcconfig"; path = "Target Support Files/Pods-augray/Pods-augray.debug.xcconfig"; sourceTree = "<group>"; };
+		3DEDFE9F299D4C549E70792B /* Gilroy-UltraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-UltraLight.ttf"; path = "../app/assets/fonts/Gilroy-UltraLight.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-augray.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-augray.release.xcconfig"; path = "Target Support Files/Pods-augray/Pods-augray.release.xcconfig"; sourceTree = "<group>"; };
+		59E1605AFCC644378B748EE0 /* Gilroy-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-ExtraBold.ttf"; path = "../app/assets/fonts/Gilroy-ExtraBold.ttf"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-augray.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-augray.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7228070CA8E643ED9A1419DF /* Gilroy-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-SemiBold.ttf"; path = "../app/assets/fonts/Gilroy-SemiBold.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = augray/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = augray/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		946CF27E11BC4AF98F5F6F25 /* Gilroy-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Light.ttf"; path = "../app/assets/fonts/Gilroy-Light.ttf"; sourceTree = "<group>"; };
+		D4B1903AAF594EDCB0B196DE /* Gilroy-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Thin.ttf"; path = "../app/assets/fonts/Gilroy-Thin.ttf"; sourceTree = "<group>"; };
+		D8A3AA42D4D84B31B3453678 /* Gilroy-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Regular.ttf"; path = "../app/assets/fonts/Gilroy-Regular.ttf"; sourceTree = "<group>"; };
+		E0ED32320D544AA8B37B9F6C /* Gilroy-Heavy.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Heavy.ttf"; path = "../app/assets/fonts/Gilroy-Heavy.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FA9A998C8C5B4DB382BE169C /* Gilroy-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Bold.ttf"; path = "../app/assets/fonts/Gilroy-Bold.ttf"; sourceTree = "<group>"; };
+		23BC6240B2B248F5925C0698 /* Aclonica-Regular.ttf */ = {isa = PBXFileReference; name = "Aclonica-Regular.ttf"; path = "../app/assets/fonts/Aclonica-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +95,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				CDA2AD713CEF4397BA83278E /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -96,6 +117,24 @@
 				5709B34CF0A7D63546082F79 /* Pods-augray.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		CDA2AD713CEF4397BA83278E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FA9A998C8C5B4DB382BE169C /* Gilroy-Bold.ttf */,
+				59E1605AFCC644378B748EE0 /* Gilroy-ExtraBold.ttf */,
+				E0ED32320D544AA8B37B9F6C /* Gilroy-Heavy.ttf */,
+				946CF27E11BC4AF98F5F6F25 /* Gilroy-Light.ttf */,
+				2B8236EF6C4F489A9FB9B453 /* Gilroy-Medium.ttf */,
+				D8A3AA42D4D84B31B3453678 /* Gilroy-Regular.ttf */,
+				7228070CA8E643ED9A1419DF /* Gilroy-SemiBold.ttf */,
+				D4B1903AAF594EDCB0B196DE /* Gilroy-Thin.ttf */,
+				3DEDFE9F299D4C549E70792B /* Gilroy-UltraLight.ttf */,
+				23BC6240B2B248F5925C0698 /* Aclonica-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,6 +200,16 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				59F4FB769B3CD9B6DCD998EC /* PrivacyInfo.xcprivacy in Resources */,
+				FCA1F5BD3554447A92EF2F9F /* Gilroy-Bold.ttf in Resources */,
+				9528B0DB53C54A38A94A54A1 /* Gilroy-ExtraBold.ttf in Resources */,
+				6D0DA8A5772E4F02B7CF646C /* Gilroy-Heavy.ttf in Resources */,
+				8149A4101D6C4A8B9EFFC9AD /* Gilroy-Light.ttf in Resources */,
+				F622E7FCF6264EF8A835B4BF /* Gilroy-Medium.ttf in Resources */,
+				CD32F2F6E4654D2FA677E6F2 /* Gilroy-Regular.ttf in Resources */,
+				142E62B7F9864C14AB8DA82A /* Gilroy-SemiBold.ttf in Resources */,
+				942C83513B124E58A9C8AF03 /* Gilroy-Thin.ttf in Resources */,
+				2519A4DB8C4B4E8DACD2EC49 /* Gilroy-UltraLight.ttf in Resources */,
+				7C170EA63B314599ABC1D407 /* Aclonica-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,7 +427,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = "$(inherited)  ";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -447,7 +499,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = "$(inherited)  ";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
